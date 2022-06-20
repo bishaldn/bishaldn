@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native || Web 3.0**
 
-- 💬 Ask me about **MEARN || ML**
+- 💬 Ask me about **MERN || ML**
 
 - 📫 How to reach me **bishaldeepnath430@gmail.com**
 
